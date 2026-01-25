@@ -1,0 +1,6 @@
+Role : CEO,  Investor  (VC)
+Data : Balance Sheet
+Query :
+a)  Summaries the balance sheet and it can be presented to the board.
+b)  How competior X is performing in the dairy industry .  I would like to invest in X, tell me how it is performing.
+c)  Competitor analysis in the dairy sector.
